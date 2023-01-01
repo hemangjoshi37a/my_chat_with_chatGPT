@@ -22,4 +22,3 @@ To view the chats, you can simply click on the links in the list above. The HTML
 ## License
 
 The content of this repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the content as long as you credit the original source.
-
