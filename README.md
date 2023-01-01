@@ -8,7 +8,7 @@ Welcome to my chat with ChatGPT! This repository contains a series of HTML pages
 - [Write Proposal Letter NLP](write_proposal_letter_nlp.html)
 - [Write NLP Cover Letter](write_nlp_cover_letter.html)
 - [Build LED Matrix Ad System](build_led_matrix_ad_system.html)
-- [My Projects](my_projects.html)
+- [My Projects](My Projects.html)
 - [Anti Gravity Time Machine](anti_gravity_time_machine.html)
 - [About Company](about_company.html)
 - [Telegram NER](telegram_ner.html)
