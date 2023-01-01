@@ -1,5 +1,5 @@
-import requests
 import os
+from cfscrape import create_scraper
 
 # List of URLs to download HTML files from
 urls = [
@@ -14,10 +14,13 @@ urls = [
     "https://chat.openai.com/chat/0c6aa5da-dd24-4804-a775-20f78b5a8191",
 ]
 
+# Create a scraper instance
+scraper = create_scraper()
+
 # Loop through the list of URLs
 for url in urls:
-    # Send a GET request to the URL and retrieve the HTML content
-    response = requests.get(url)
+    # Send a GET request to the URL using the scraper and retrieve the HTML content
+    response = scraper.get(url)
     html = response.text
     
     # Extract the filename from the URL
