@@ -2,6 +2,17 @@
 
 Welcome to my chat with ChatGPT! This repository contains a series of HTML pages that document my conversations with the chatbot. To view the content of a specific chat, simply click on the link in the list below.
 
+## Automation Process
+
+This repository contains scripts for automating the following processes:
+
+1. Renaming files by adding underscores using `rename.py`
+2. Converting HTML files to JSON using `html_to_json.py`
+3. Automatically adding, committing, and pushing changes to a Git repository using `git_automate.py`
+
+To execute these scripts consecutively, you can use the `execute_all.py` script and the `execute_all.sh` shell script.
+
+
 ## Chat List
 
 - [NSE Trading Strategies](nse_trading_strategies.html)
