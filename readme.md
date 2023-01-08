@@ -1,6 +1,7 @@
 # My Chat with ChatGPT
 
 Welcome to my chat with ChatGPT! This repository contains a series of HTML pages that document my conversations with the chatbot. To view the content of a specific chat, simply click on the link in the list below.
+Here is my not working repo to automate this process using chrome extention : https://github.com/hemangjoshi37a/ChatGPTPublish
 
 ## Automation Process
 
