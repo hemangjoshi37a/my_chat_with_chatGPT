@@ -2,6 +2,17 @@
 
 Welcome to my chat with ChatGPT! This repository contains a series of HTML pages that document my conversations with the chatbot. To view the content of a specific chat, simply click on the link in the list below.
 
+## Automation Process
+
+This repository contains scripts for automating the following processes:
+
+1. Renaming files by adding underscores using `rename.py`
+2. Converting HTML files to JSON using `html_to_json.py`
+3. Automatically adding, committing, and pushing changes to a Git repository using `git_automate.py`
+
+To execute these scripts consecutively, you can use the `execute_all.py` script and the `execute_all.sh` shell script.
+
+
 ## Chat List
 
 - [NSE Trading Strategies](nse_trading_strategies.html)
@@ -22,3 +33,15 @@ To view the chats, you can simply click on the links in the list above. The HTML
 ## License
 
 The content of this repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the content as long as you credit the original source.
+
+## Social Media :
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/whatsapp.jpg" width="15px;"/> [WhatsApp/917016525813](https://wa.me/917016525813)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/telegram.me.jpg" width="15px;"/> [Telegram/hjlabs](https://t.me/hjlabs)
+* [<img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/email.jpg" width="15px;"/> Gmail/hemangjoshi37a@gmail.com](mailto:hemangjoshi37a@gmail.com)
+* [<img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/facebook.jpg" width="15px;"/> Facebook/hemangjoshi37](https://www.facebook.com/hemangjoshi37/)
+* [<img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/twitter.jpg" width="15px;"/> Twitter/HemangJ81509525](https://twitter.com/HemangJ81509525)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/linkedin.jpg" width="15px;"/> [LinkedIn/hemang-joshi-046746aa](https://www.linkedin.com/in/hemang-joshi-046746aa/)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/tumblr.jpg" width="15px;"/> [Tumblr/hemangjoshi37a-blog](https://www.tumblr.com/blog/hemangjoshi37a-blog)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/pinterest.jpg" width="15px;"/> [Pinterest/hemangjoshi37a](https://in.pinterest.com/hemangjoshi37a/)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/blogger.jpg" width="15px;"/> [Blogger/hemangjoshi](http://hemangjoshi.blogspot.com/)
+* <img src="https://raw.githubusercontent.com/bradvin/social-share-urls/master/images/logo-icons/instapaper.jpg" width="15px;"/> [Instagram/hemangjoshi37](https://www.instagram.com/hemangjoshi37/)
