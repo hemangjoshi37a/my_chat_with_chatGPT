@@ -62,10 +62,3 @@ The content of this repository is licensed under the [MIT License](LICENSE). You
 [<img height="36" src="https://cdn.simpleicons.org/Blogger"/>](http://hemangjoshi.blogspot.com) &nbsp;
 [<img height="36" src="https://cdn.simpleicons.org/gitlab"/>](https://gitlab.com/hemangjoshi37a) &nbsp;
 
-## Awesome Fiverr. Gigs:
-- [develop machine learning ner model as in nlp using python](https://www.fiverr.com/share/9YNabx)
-- [train custom chatgpt question answering model](https://www.fiverr.com/share/rwx6r7)
-- [build algotrading, backtesting and stock monitoring tools using python](https://www.fiverr.com/share/A7Y14q)
-- [tutor you in your science problems](https://www.fiverr.com/share/zPzmlz)
-- [make apps for you crossplatform	](https://www.fiverr.com/share/BGw12l)
-
